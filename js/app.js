@@ -216,7 +216,7 @@ console.log("STAG -" + stag);
 
 
 $('.btn-2').click(function(){     
-    window.location.href = 'https://abocasino.biz/en-AU/users/sign_up' + stag;
+    window.location.href = 'https://abocasino.biz/users/sign_up' + stag;
 })
 
 
